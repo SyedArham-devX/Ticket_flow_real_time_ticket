@@ -346,7 +346,7 @@ AVAILABLE → LOCKED (10-min timer) → BOOKED
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ShivamNayak-dev/TicketFlow.git
+git clone https://github.com/SyedArham-devX
 cd TicketFlow
 ```
 
@@ -421,4 +421,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built by [Shivam Nayak](https://github.com/ShivamNayak-dev) | [LinkedIn](https://www.linkedin.com/in/shivam-nayak-886495297/)*
+*Built by [Syed Arham](https://github.com/SyedArham-devX) | [LinkedIn](www.linkedin.com/in/syed-mohd-arham-473601284)*
